@@ -1,0 +1,299 @@
+
+.page{
+    width: 1920px;
+    background-image: url("pc.jpg");
+    background-attachment: fixed;
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    font-family: 'Source Sans Pro', Calibri, Tahoma, sans-serif;
+}
+
+
+.welcome{
+    width: 1920px;
+    height: 1080px;
+    background-image: url("laptop-336373_1920.jpg");
+    
+}
+
+.h3{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.filter{
+    width: 1920px;
+    height: 1080px;
+    background-color: rgba(191,191,191,0.5);
+
+    background-attachment: fixed;
+}
+
+.filterpage{
+    height: max-content;
+    background-color: rgba(255,255,255,0.8);
+
+    background-attachment: fixed;
+}
+
+.container{
+    padding-top: 115px;
+    width: 1920px;
+
+
+}
+
+.description{
+    height: auto;
+    margin-bottom: 40px;
+}
+
+.titre{
+    font-family: 'Source Sans Pro', Calibri, Tahoma, sans-serif;
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.nom{
+    font-family: 'Source Sans Pro', Calibri, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.poste{
+
+    justify-self: center;
+    text-align: center;
+    font-family: 'Source Sans Pro', Calibri, Tahoma, sans-serif;
+
+    font-weight: bold;
+}
+
+li{
+    margin-left: 15px;
+}
+
+.diplome{
+    vertical-align: center;
+    
+
+    font-weight: bold;
+}
+
+.description{
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+
+
+.infophoto{
+    height: 250px;
+}
+
+.info{
+    text-align: center;
+}
+
+.photo{
+    text-align: center;
+}
+
+.section{
+    margin-bottom: 45px;
+    text-align: justify;
+}
+
+.presentation{
+    text-align: center;
+}
+
+
+h2{
+    font-size: 28px;
+    border-bottom: 3px solid black;
+    width: auto;
+    text-align: center;
+}
+
+.container{
+    margin-left: 300px;
+}
+
+.date{
+    text-align: left;
+    cursor: pointer;
+    -ms-flex: 0 0 230px;
+    /*flex: 0 0 230px;*/
+
+
+}
+
+.cursus{
+    margin-left: 75px;
+}
+
+
+.nomTechno{
+    font-weight: bold;
+}
+
+.technodiv{
+    margin-bottom: 15px;
+}
+
+
+
+.compmetier{
+    text-align: center;
+
+
+}
+
+.softskill{
+
+    text-align: center;
+
+}
+
+.technocompmet{
+
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.techno{
+
+    text-align: center;
+}
+
+h4{
+    text-align: left;
+}
+
+.result{
+    text-align: left;
+    width: 650px;
+    margin-left: 650px;
+    margin-bottom: 40px;
+
+}
+
+.technoresult{
+    margin-left: 300px;
+    text-align: left;
+    height: 400px;
+
+
+}
+
+.experience{
+    margin-bottom: 20px;
+}
+
+.nav-item,.details{
+    cursor: pointer;
+}
+
+@media all and (max-width: 1920px)
+{
+    .homepage{
+        width: 1600px;
+    }
+
+
+    .welcome{
+        width: 1600px;
+    }
+
+    .page{
+        background-image: url("pc.jpg");
+        width: 1600px;
+        font-size: 36px;
+    }
+    .filterpage{
+        width: 1600px;
+    }
+    .filter{
+        width: 1600px;
+    }
+}
+
+@media all and (max-width: 1280px)
+{
+    .homepage{
+        width: 1280px;
+    }
+
+
+    .welcome{
+        width: 1280px;
+    }
+
+    .page{
+        background-image: url("pc.jpg");
+        width: 1280px;
+        font-size: 36px;
+    }
+    .filterpage{
+        width: 1280px;
+    }
+    .filter{
+        width: 1280px;
+    }
+}
+
+
+@media all and (max-width: 1024px)
+{
+    .homepage{
+        width: 1024px;
+    }
+    .welcome{
+        width: 1024px;
+    }
+    .page{
+        background-image: url("pc-med.jpg");
+        width: 1024px;
+    }
+    .filterpage{
+        width: 1024px;
+    }
+    .filter{
+        width: 1024px;
+    }
+}
+
+@media all and (max-width: 768px)
+{
+    .homepage{
+        width: 768px;
+    }
+
+    .welcome{
+        width: 768px;
+    }
+    .page{
+        background-image: url("pc-short.jpg");
+        width: 768px;
+    }
+
+    .filterpage{
+        width: 768px;
+    }
+    .filter{
+        width: 768px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
