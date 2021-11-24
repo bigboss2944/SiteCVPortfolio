@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79cfc9fb-f141-4616-a6a0-9de39df122c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sXWLnzCNeAe0E90gkN0ZxA8hf8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bruzup" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\source\repos\Projets\SiteCVPortfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\source\repos\Projets\SiteCVPortfolio\css" />
+      <recent name="D:\source\repos\Projets\SiteCVPortfolio\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79cfc9fb-f141-4616-a6a0-9de39df122c5" name="Default Changelist" comment="" />
+      <created>1621019369113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621019369113</updated>
+      <workItem from="1621019371407" duration="996000" />
+      <workItem from="1621098477660" duration="28000" />
+      <workItem from="1621098681771" duration="5350000" />
+      <workItem from="1621169912204" duration="18369000" />
+      <workItem from="1621195253489" duration="5892000" />
+      <workItem from="1621273290074" duration="11642000" />
+      <workItem from="1621287171221" duration="1646000" />
+      <workItem from="1621364343705" duration="7574000" />
+      <workItem from="1621407352208" duration="833000" />
+      <workItem from="1621413647306" duration="2107000" />
+      <workItem from="1621772143249" duration="9356000" />
+      <workItem from="1621789762662" duration="10229000" />
+      <workItem from="1621859215471" duration="16082000" />
+      <workItem from="1621884786507" duration="2239000" />
+      <workItem from="1621887138648" duration="1535000" />
+      <workItem from="1621888838849" duration="2647000" />
+      <workItem from="1621926726338" duration="311000" />
+      <workItem from="1621927228202" duration="101000" />
+      <workItem from="1621929267714" duration="4108000" />
+      <workItem from="1621933494209" duration="332000" />
+      <workItem from="1621934944878" duration="1319000" />
+      <workItem from="1621936612245" duration="1078000" />
+      <workItem from="1621970477240" duration="59000" />
+      <workItem from="1622146767970" duration="622000" />
+      <workItem from="1622490078887" duration="5119000" />
+      <workItem from="1622994447264" duration="9248000" />
+      <workItem from="1624390801169" duration="219000" />
+      <workItem from="1625321704817" duration="617000" />
+      <workItem from="1627814669887" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/pageCV.html</url>
+          <line>400</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/pageCV.html</url>
+          <line>304</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
